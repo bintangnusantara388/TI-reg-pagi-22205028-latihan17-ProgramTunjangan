@@ -3,6 +3,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package latihan17;
+/**
+ *
+ * @author user 
+ Nama              : Bintang Fajar Nusantara 
+ Nim               : 22205028 
+ Prodi             : Teknik Informatika 
+ Kelas             : PBO 1
+ Deskripsi Program : Program ini berisi program yang menampilkan Tunjangan
+ */
 import java.util.Scanner;
 
 public class Latihan17 {
